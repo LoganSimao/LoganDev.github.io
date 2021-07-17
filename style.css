@@ -71,7 +71,7 @@ html{
 .s1{
     width: 99.1vw;
     height: 100vh;
-    background-color: #0F0F0F;
+    background-color: #060606;
 
 }
 
@@ -90,7 +90,7 @@ html{
     position: absolute;
     width: 60%;
     height: 100vh;
-    background: linear-gradient(90.13deg, #0F0F0F 0.12%, rgba(15, 15, 15, 0) 80.91%), url(.jpg);
+    background: linear-gradient(90.13deg, #060606 0.12%, rgba(15, 15, 15, 0) 80.91%), url(.jpg);
 
     right: 0;
     z-index: 2;
